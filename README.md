@@ -25,13 +25,13 @@ json{
   }
 }
 
-**src/main.js:**
+# src/main.js:
 javascriptimport { createApp } from 'vue'
 import App from './App.vue'
 
 createApp(App).mount('#app')
 
-**src/App.vue:**
+# src/App.vue:
 vue<template>
   <h1>Hello Vue!</h1>
 </template>
